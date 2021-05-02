@@ -11,4 +11,4 @@ Philadelphia is a city that is rich in history and diversity. With a population 
 
 This was a team effort the group repository is located here: https://github.com/jeremybar32093/philadelphia_housing_analysis
 
-My part in this project was focused on using the data to see if how location affects pricing and the number of sales in zip codes in Philadelphia. I created choropleth maps to try to find the answer to this question.
+My part in this project was focused on using the data to see if location affects pricing and the number of sales in zip codes in Philadelphia. I created choropleth maps to try to find the answer to this question.
