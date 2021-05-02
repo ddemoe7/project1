@@ -1,30 +1,14 @@
 # project1
-First group project - visualizations
+First group project - Visualizations
 
-## Rough Breakdown of Tasks:
-1. Housekeeping
-* Create github repository for team to collaborate in
-2. Data exploration/planning
-3. Load and clean datasets
-* ETL steps - filtering
-  * Filter on just 5 years (sale_date)
-  * Keep only Single Family, Multi-Family, Mixed Use category types
-  * Filter out records with “unfinished” equal to U
-* ETL steps - remove extraneous columns
-* ETL steps - reformat date fields (sale_date)
-4. Create visualizations to tell the story - Target Wed 4/28
-  * Summary table - yearly level - Jeremy
-    * Avg sale price
-    * Total # of Sales
-    * Median, Mode, Std Dev, Etc.
-  * Summary box and whiskers for sale price - review outliers and determine  threshold to filter out outliers -> DeAngelo
-  * Heatmap # of sales by ZIP -> Dominique
-    * Layer in demographic information
-  * 5 year trend of prices - break out by any dim - Anthony
-    * Potentially superimpose interest rates
-  * Pie chart - bucket # of sales by age - Anjanette
-  * Scatter Plot - Jeremy
-    * Sq. Footage vs Sale Price
-    * Market Price vs Sale Price
-    * Incorporate linear regression/correlation calculations
-5. Summary writeup/conclusion
+## Background
+Philadelphia is a city that is rich in history and diversity. With a population over 1.5 million and neighborhoods undergoing constant changes, our group wanted to dive into the housing market. Through several different explorations, our group endeavored to find the answer to following questions:
+
+1.	How have home sales in Philadelphia evolved over the past 5 years?
+2.	How does location (zip code) affect pricing and number of sales?
+3.	How has age of home affected pricing and number of sales?
+4.	How does size of home affect pricing and number of sales?
+
+This was a team effort the group repository is located here: https://github.com/jeremybar32093/philadelphia_housing_analysis
+
+My part in this project was focused on using the data to see if how location affects pricing and the number of sales in zip codes in Philadelphia. I created choropleth maps to try to find the answer to this question.
