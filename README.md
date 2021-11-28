@@ -15,9 +15,9 @@ My part in this project was focused on using the data to see if location affects
 
 <br>
 
-<b>Summary Table</b>
+<b>Summary Table</b><br>
 ![Summary table](https://user-images.githubusercontent.com/22499952/143789792-1eeeb27a-44e4-472d-9b31-a9d1ad0c7e92.png)
 
 <br>
-<b>5-Year Trend</b>
-![Trend](https://user-images.githubusercontent.com/22499952/143789795-a2ed71a5-1d32-4079-8de1-f5d8b0e1e5e4.png)
+<b>5-Year Trend</b><br>
+![5c_5_year_trend](https://user-images.githubusercontent.com/22499952/143789818-ec11e10e-3065-498f-a47d-45375e96ae37.png)
