@@ -1,5 +1,7 @@
-# project1
+# Philadelphia Housing Analysis
 First group project - Visualizations
+<br>
+<i>(project1)</i>
 
 ## Background
 Philadelphia is a city that is rich in history and diversity. With a population over 1.5 million and neighborhoods undergoing constant changes, our group wanted to dive into the housing market. Through several different explorations, our group endeavored to find the answer to following questions:
